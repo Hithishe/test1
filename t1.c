@@ -7,5 +7,10 @@ add(){
 } 
 sub();
 div();
-mul();
+mul(){
+  int a,b,pro;
+  pro=a*b;
+  printf("product=",pro);
+  
+}
 }
