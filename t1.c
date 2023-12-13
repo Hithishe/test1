@@ -6,9 +6,9 @@ add(){
   printf("Sum=",sum)
 } 
 sub(){
-  a-b;
+
 }
-  
+
 div();
 mul(){
   int a,b,pro;
