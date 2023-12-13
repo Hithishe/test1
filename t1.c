@@ -5,7 +5,10 @@ add(){
   sum=a+b;
   printf("Sum=",sum)
 } 
-sub();
+sub(){
+  a-b;
+}
+  
 div();
 mul(){
   int a,b,pro;
