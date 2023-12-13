@@ -6,10 +6,14 @@ add(){
   printf("Sum=",sum)
 } 
 sub(){
-  int a,b,sub;
-  sub=a-b;
-  printf("sub=",sub);
+
 }
+
 div();
-mul();
+mul(){
+  int a,b,pro;
+  pro=a*b;
+  printf("product=",pro);
+  
+}
 }
